@@ -9,7 +9,7 @@ I'm Álvaro Lillo, a solutions engineer in developer education. I make hard stac
 - **[sui-pilot](https://contract-hero.github.io/sui-pilot/)**: a Claude Code plugin for Sui and Move. 800+ bundled docs, a Move language server bridge and a Sui Prover wrapper, so the agent writes correct Move. ([repo](https://github.com/contract-hero/sui-pilot))
 - **[plugin marketplace](https://contract-hero.github.io/plugin-marketplace/)**: install every Contract Hero plugin from one place. ([repo](https://github.com/contract-hero/plugin-marketplace))
 - **[toolkit](https://github.com/contract-hero/toolkit)**: skills that turn agent output into self-contained HTML reports, explainers and diagrams.
-- **[skypies-plugin](https://github.com/contract-hero/skypies-plugin)**: the Claude Code companion for the skypies app. Sends the files your agent makes to your own devices over an end-to-end encrypted peer-to-peer link.
+- **[skypies](https://contracthero.dev/skypies/)**: a Mac app for the files your agents produce. Its Claude Code plugin sends them to your own devices over an end-to-end encrypted peer-to-peer link. ([plugin repo](https://github.com/contract-hero/skypies-plugin))
 - **[code-forge](https://contract-hero.github.io/code-forge/)**: design spec and architecture playground for a multi-agent build system. ([repo](https://github.com/contract-hero/code-forge))
 
 ## Teaching
